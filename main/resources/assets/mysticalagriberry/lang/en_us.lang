@@ -1,0 +1,26 @@
+#amalgams
+item.amalgam_zombie.name=Zombie Amalgam
+item.amalgam_pig.name=Pig Amalgam
+item.amalgam_chicken.name=Chicken Amalgam
+item.amalgam_cow.name=Cow Amalgam
+item.amalgam_sheep.name=Sheep Amalgam
+item.amalgam_slime.name=slime Amalgam
+item.amalgam_skeleton.name=Skeleton Amalgam
+item.amalgam_creeper.name=Creeper Amalgam
+item.amalgam_spider.name=Spider Amalgam
+item.amalgam_rabbit.name=Rabbit Amalgam
+item.amalgam_guardian.name=Guardian Amalgam
+item.amalgam_blaze.name=Blaze Amalgam
+item.amalgam_ghast.name=Ghast Amalgam
+item.amalgam_enderman.name=Enderman Amalgam
+item.amalgam_wither_skeleton.name=Wither Skeleton Amalgam
+item.amalgam_blizz.name=Blizz Amalgam
+item.amalgam_blitz.name=Blitz Amalgam
+item.amalgam_basalz.name=Basalz Amalgam
+item.amalgam_witch.name=Witch Amalgam
+item.amalgam_ender_dragon.name=Ender Dragon Amalgam
+item.amalgam_wither.name=Wither Amalgam
+
+
+#creative tab
+itemGroup.MABCreativeTab=Mystical Agriculture: Blueberry Additions
