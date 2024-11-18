@@ -1,6 +1,6 @@
 package com.blueberrysoda.mysticalagriberry;
 
-import com.blueberrysoda.mysticalagriberry.items.Amalgam;
+import com.blueberrysoda.mysticalagriberry.init.ModItems;
 import net.minecraft.item.ItemStack;
 import net.minecraft.creativetab.CreativeTabs;
 
@@ -12,6 +12,6 @@ public class MABCreativeTab extends CreativeTabs{
 
     @Override
     public ItemStack getTabIconItem(){
-        return new ItemStack(Amalgam.ZOMBIE_AMALGAM);
+        return new ItemStack(ModItems.ZOMBIE_AMALGAM);
     }
 }

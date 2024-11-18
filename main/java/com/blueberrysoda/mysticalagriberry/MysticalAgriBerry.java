@@ -32,9 +32,11 @@ public class MysticalAgriBerry {
 
     @Mod.EventHandler
     public static void init(FMLInitializationEvent event) {
-
+        CommonProxy.init(event);
     }
 
     @Mod.EventHandler
-    public static void postInit(FMLPostInitializationEvent event) {}
+    public static void postInit(FMLPostInitializationEvent event) {
+        CommonProxy.postInit(event);
+    }
 }
